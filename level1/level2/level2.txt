@@ -1,0 +1,1 @@
+Since the Active is an Input why not change it's value from the parent component. I mean you can move this.active = false; from MyButtonComponent to your HostComponent inside the method that handle your Output
